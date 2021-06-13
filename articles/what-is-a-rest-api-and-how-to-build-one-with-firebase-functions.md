@@ -24,11 +24,11 @@ Firebase Functions (Cloud Functions) is a serverless framework that provides to 
 
 Before you can get started building your own API, you need to create a few things. For example, you have to create a new project in the [Firebase ​console](https://console.firebase.google.com/).
 
-[insert photo here]
+![Create firebase environment](https://user-images.githubusercontent.com/48051912/121822436-60278080-cc9f-11eb-93b9-d92632633635.jpg)
 
 You also have to convert your payment plan to a 'Pay as you go', which means that you pay per API request. The first 2 million requests are free, after that a certain amount will be debited from your account.
 
-[insert photo here]
+![Change pay options to pay as you go](https://user-images.githubusercontent.com/48051912/121822438-6289da80-cc9f-11eb-8a45-0fbb1b8c38e2.png)
 
 ### **Set up Node.js and Firebase tools**
 
